@@ -1,0 +1,14 @@
+In order to run the code created, some packages must be installed.
+	- requests
+	- bs4
+	- pandas
+
+
+pip is a package management system used to install and manage software packages written in Python
+
+Run commands: 
+pip install requests
+pip install bs4			http://www.crummy.com/software/BeautifulSoup/
+pip install pandas 		https://en.wikipedia.org/wiki/Pandas_(software)
+
+NumPy http://www.numpy.org/
